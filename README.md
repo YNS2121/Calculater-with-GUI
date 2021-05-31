@@ -1,2 +1,2 @@
 # Calculater-with-GUI
-Calculater
+In Java Language
